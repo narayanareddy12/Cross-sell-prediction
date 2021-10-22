@@ -14,7 +14,7 @@ Building a model to predict whether a customer would be interested in Vehicle In
 
 Now, in order to predict, whether the customer would be interested in Vehicle insurance, you have information about demographics (gender, age, region code type), Vehicles (Vehicle Age, Damage), Policy (Premium, sourcing channel) etc
 
-Data Description;
+**Data Description;**
 id	Unique ID for the customer
 Gender	Gender of the customer
 Age Age of the customer
@@ -30,7 +30,7 @@ Policy_Sales_Channel	Anonymised Code for the channel of outreaching to the custo
 Vintage	Number of Days, Customer has been associated with the company
 Response	1 :  Customer is interested, 0 : Customer is not interested
 
-Submission;
+**Submission;**
 id	Unique ID
 
 Response; Probability of Customer being interested in Vehicle Loan
